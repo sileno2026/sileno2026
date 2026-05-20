@@ -6,6 +6,7 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![Unity](https://img.shields.io/badge/build-pro-brightgreen?style=flat-square&logo=Unity&logoColor=white&logoSize=auto&label=Unity&labelColor=000000&color=fedcba&cacheSeconds=3600)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
@@ -19,5 +20,5 @@
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+  ![C#](https://img.shields.io/badge/build-C-brightgreen?style=flat-square&logo=C%23&logoColor=white&logoSize=auto&label=C%23&labelColor=000000&color=fedcba&cacheSeconds=3600)
+
